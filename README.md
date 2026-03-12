@@ -169,27 +169,6 @@ Predictive delay models can help airlines:
 
 ---
 
-# 📂 Repository Structure
-Flight-Delay-Prediction
-│
-├── data
-│   └── cleaned_airline_dataset.csv
-│
-├── notebooks
-│   └── airline_delay_prediction.ipynb
-│
-├── jmp_outputs
-│   └── logistic_model_results
-│
-├── powerbi_dashboard
-│   └── airline_delay_dashboard.pbix
-│
-├── report
-│   └── predictive_analytics_report.pdf
-│
-└── README.md
-
-
 ---
 
 # 📌 Future Improvements
